@@ -1,26 +1,162 @@
-<h1 align="center">Hi 👋, I'm Gulshan</h1>
-<h3 align="center">A passionate developer from India</h3>
+# Hi, I'm Gulshan Khandale 👋
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gulshank61" alt="gulshank61" /></a> </p>
+### Software Engineer \| Backend & Mobile \| Node.js \| Flutter \| GCP \| Kubernetes
 
-<p align="left"> <a href="https://twitter.com/gulshankhandal1" target="blank"><img src="https://img.shields.io/twitter/follow/gulshankhandal1?logo=twitter&style=for-the-badge" alt="gulshankhandal1" /></a> </p>
+I'm a Software Engineer with 3+ years of professional experience
+building and shipping production applications across **backend, mobile,
+cloud, and infrastructure**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/gulshank78" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gulshank78" height="30" width="40" /></a>
-<a href="https://dev.to/gulshank61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="gulshank61" height="30" width="40" /></a>
-<a href="https://twitter.com/gulshankhandal1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gulshankhandal1" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/gulshankhandale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gulshankhandale" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/16088158" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16088158" height="30" width="40" /></a>
-<a href="https://instagram.com/btw_its_gulshan___" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="btw_its_gulshan___" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/gulshankhandale1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gulshankhandale1" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/gulshankhandale61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="gulshankhandale61" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@gulshankhandale61" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@gulshankhandale61" height="30" width="40" /></a>
-</p>
+I enjoy working on products where software engineering goes beyond
+writing features --- from designing REST APIs and backend services to
+deploying applications, troubleshooting production issues, and
+integrating native mobile capabilities.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+------------------------------------------------------------------------
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gulshank61&show_icons=true&locale=en&layout=compact" alt="gulshank61" /></p>
+## 🚀 What I Work On
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gulshank61&show_icons=true&locale=en" alt="gulshank61" /></p>
+-   **Backend Engineering** --- Node.js, Express.js, REST APIs, Java,
+    Spring Boot
+-   **Mobile Development** --- Flutter, iOS (Swift), Android
+    (Java/Kotlin)
+-   **Cloud & DevOps** --- GCP, GKE, Kubernetes, Docker, AWS
+-   **Databases** --- MySQL, SQLite
+-   **Authentication** --- OAuth 2.0, OpenID Connect, MSAL, ForgeRock
+-   **Integrations** --- Firebase, Google APIs, BLE, Unity, payment
+    gateways
+-   **Production Engineering** --- deployments, monitoring,
+    troubleshooting, releases
+
+------------------------------------------------------------------------
+
+## 💼 Professional Experience
+
+### Software Engineer --- iLoma Technology Pvt. Ltd.
+
+**December 2022 -- Present · Nagpur, Maharashtra · Remote**
+
+I've worked across fintech, enterprise, IoT, healthcare, mobility, and
+consumer applications.
+
+### Keyy --- Fintech Platform
+
+**Node.js · Flutter · GCP · GKE · Kubernetes · Docker**
+
+A fintech platform focused on credit-card management, AI-powered card
+recommendations, and CIBIL score insights.
+
+-   Led a team of **5 developers** across frontend and backend
+    development.
+-   Worked with founders, CTOs, and project managers on product and
+    technical requirements.
+-   Built and supported backend services and REST APIs.
+-   Dockerized backend microservices and supported GKE deployments.
+-   Monitored cloud infrastructure using GCP Cloud Logging and GKE.
+-   Contributed to PCI-DSS and RBI Digital Lending compliance
+    initiatives.
+-   Participated in designing mechanisms for protecting sensitive PII
+    data.
+-   Conducted R&D and built PoCs for complex requirements.
+-   Supported production deployments and troubleshooting.
+
+### Mohawk Engage
+
+**Flutter · Unity · C# · Swift · Java/Kotlin · Spring Boot**
+
+A virtual flooring visualization application powered by Unity.
+
+-   Integrated Unity with Flutter using FlutterUnityWidget.
+-   Built Flutter-to-Unity communication using custom C# scripts.
+-   Implemented SSO using ForgeRock.
+-   Integrated Microsoft authentication using MSAL and OpenID
+    Connect/AppAuth.
+-   Implemented Face ID and fingerprint authentication.
+-   Developed Spring Boot APIs for proof-of-concept implementations.
+-   Integrated Google Drive and REST APIs.
+
+### Other Projects
+
+I've also contributed to:
+
+-   **NowZone** --- iOS + BLE + CoreData + Firebase
+-   **Titan Eye Plus / Fastrack Eyewear** --- iOS + AR + REST APIs
+-   **Real Madrid Keyboard** --- Flutter + Android AOSP + Java/Kotlin +
+    MethodChannels
+-   **BhaktiVrind** --- iOS + AVPlayer + PDF reader + App Store
+    deployment
+-   **Yantrify** --- React.js + AWS + IoT
+-   **MedX** --- React.js + Node.js + Express.js + Sequelize
+-   **MySalon** --- Laravel + PHP + REST APIs
+-   **FairFare** --- iOS + Alamofire + ride booking
+
+------------------------------------------------------------------------
+
+## 🛠️ Tech Stack
+
+### Languages
+
+`JavaScript` `Dart` `Java` `Kotlin` `Swift` `PHP` `C#` `SQL`
+
+### Backend
+
+`Node.js` `Express.js` `Spring Boot` `Laravel` `REST APIs`
+
+### Mobile
+
+`Flutter` `iOS` `Swift` `Android` `Kotlin` `Java` `MethodChannels`
+
+### Frontend
+
+`React.js` `HTML5` `CSS3`
+
+### Cloud & DevOps
+
+`GCP` `GKE` `Kubernetes` `Docker` `AWS` `Lambda` `S3` `EC2`
+`API Gateway`
+
+### Databases
+
+`MySQL` `SQLite` `CoreData`
+
+### Authentication & Security
+
+`OAuth 2.0` `OpenID Connect` `MSAL` `ForgeRock`
+
+### Tools & SDKs
+
+`Git` `Firebase` `Postman` `Alamofire` `OkHttp`
+
+------------------------------------------------------------------------
+
+## 📈 Currently Focusing On
+
+-   Backend engineering
+-   Scalable REST APIs
+-   Microservices
+-   Java & Spring Boot
+-   Cloud-native deployments
+-   Kubernetes & GCP
+-   System design
+-   Production reliability
+
+------------------------------------------------------------------------
+
+## 🏆 Achievements
+
+-   🏅 Received **Employee of the Month** award 4 times.
+-   🚀 Received direct client appreciation for successful production
+    deployments.
+-   👥 Led a team of 5 developers on a fintech platform.
+
+------------------------------------------------------------------------
+
+## 📫 Connect With Me
+
+-   **LinkedIn:**
+    [linkedin.com/in/gulshankhandale](https://www.linkedin.com/in/gulshankhandale/)
+-   **GitHub:** [github.com/Gulshank61](https://github.com/Gulshank61)
+-   **Email:** gulshankhandale61@gmail.com
+
+------------------------------------------------------------------------
+
+> **Build. Learn. Solve. Ship.**
